@@ -1,0 +1,12 @@
+Day 1 - Using percentages & avoiding heights
+------------------------------------------------------
+Websites are naturally responsive if you are running into issues
+it is something the programmer has defined.
+
+width(default) is 100% of parent element. 
+Don't set fixed widths!!!!
+Set widths to %.
+
+Heights are usually a bad thing.
+
+Default font size of most browsers is 16px!!!!
