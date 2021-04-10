@@ -10,3 +10,13 @@ Set widths to %.
 Heights are usually a bad thing.
 
 Default font size of most browsers is 16px!!!!
+
+Day 2 - Relative Units
+------------------------------------------------------
+em- relative to parent font size. Can compound as you go down.
+    +em on everything but font-size is based off that elements font size, 
+    not the parent's font size!
+    +use for padding, margins
+rem- relative to html font size.
+    +use for font-sizes
++pixels are bad because the root value can't be changed
