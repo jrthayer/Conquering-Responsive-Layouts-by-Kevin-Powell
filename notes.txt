@@ -1,3 +1,4 @@
+------------------------------------------------------
 Day 1 - Using percentages & avoiding heights
 ------------------------------------------------------
 Websites are naturally responsive if you are running into issues
@@ -11,6 +12,7 @@ Heights are usually a bad thing.
 
 Default font size of most browsers is 16px!!!!
 
+------------------------------------------------------
 Day 2 - Relative Units
 ------------------------------------------------------
 em- relative to parent font size. Can compound as you go down.
@@ -20,3 +22,10 @@ em- relative to parent font size. Can compound as you go down.
 rem- relative to html font size.
     +use for font-sizes
 +pixels are bad because the root value can't be changed
+
+------------------------------------------------------
+Day 3- Max Width
+------------------------------------------------------
+Percentages on widths makes sites look better on all screens
+but on large screens the content gets stretched, setting
+a max-width ensures our content doesn't stretch on large screens.
