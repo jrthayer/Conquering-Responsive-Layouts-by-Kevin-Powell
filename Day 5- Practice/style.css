@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: rgb(24, 45, 85);
+    padding: 5em 4em;
+    color: white;
+}
+
+.container{
+    max-width: 30em;
+}
+
+p{
+    padding-bottom: 2em;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(24, 45, 85);
+    background-color: rgb(21, 169, 255);
+    padding: .5em 1em;
+    border-radius: 2em;
+    text-transform: uppercase;
+    font-weight: 700;
+}
